@@ -1,5 +1,7 @@
 <h2 align="center"> MLE | SWE | Data Scientist | AI Researcher </h2>
 
+![17 Mile Drive](17mileDrive_Ca.png)
+
 <h3 align="center">🌐 Connect with me:</h3>
 
 <p align="center">
@@ -60,5 +62,7 @@
 </p>
 
 
-<h4 align="center"> Feel free to reach out, I am always down for coffee chat.  </h4>
+<h4 align="center"> Always open to a coffee chat ☕
+  
+Interests:  AI | Blockchain | Crypto | Tech | Finance </h4>
 
