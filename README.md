@@ -1,6 +1,5 @@
 <h2 align="center"> MLE | SWE | Data Scientist | AI Researcher </h2>
 
----
 <h3 align="center">🌐 Connect with me:</h3>
 
 <p align="center">
@@ -60,8 +59,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB"/>
 </p>
 
----
 
-
-<h2 align="center"> Feel free to reach out, I am always down for coffee chat.  </h2>
+<h4 align="center"> Feel free to reach out, I am always down for coffee chat.  </h4>
 
