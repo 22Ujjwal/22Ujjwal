@@ -1,8 +1,4 @@
-
-
-<h1 align="center">Hey there 👋, I'm Ujjwal 😎</h1>
-<h3 align="center"> MLE | SWE | Data Scientist | AI Researcher </h3>
-
+<h2 align="center"> MLE | SWE | Data Scientist | AI Researcher </h2>
 
 ---
 <h3 align="center">🌐 Connect with me:</h3>
@@ -17,7 +13,6 @@
   </a>
 </p>
 
----
 <h3 align="center">🧠 AI/ML & Data Science💻</h3>
 
 <p align="center">
@@ -38,33 +33,25 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/>
 </p>
 
-<h3 align="center">🌐 Frontend & UI</h3>
+<h3 align="center">🌐 Frontend, Backend & Databases ⚙️</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/>
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40" alt="Framer"/>
-</p>
-
-<h3 align="center">⚙️ Backend & Databases</h3>
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
+<p>
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
+<h3 align="center">☁️ Cloud & DevOps 🛠️</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/>
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="40" height="40" alt="Firebase"/>
-</p>
-
-<h3 align="center">🛠️ Tools & Frameworks</h3>
-<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
