@@ -12,6 +12,9 @@
   <a href="mailto:ujjwal.gupta2000@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email " height="30" width="40"  />
   </a>
+  <a href="https://ujjwalgupta.tech">
+    <img src="https://github.com/22Ujjwal/22Ujjwal.github.io/blob/main/images/laptop_sticker.png" alt="My Portfolio" height="70" width="70"  />
+  </a>
 </p>
 
 <h3 align="center">💻 AI/ML & Data Science </h3>
