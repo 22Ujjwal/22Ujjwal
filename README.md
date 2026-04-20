@@ -70,7 +70,7 @@
     <td align="center"><a href="mailto:ujjwal.gupta2000@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email " height="30" width="40"  />
   </a></td>
-    <td align="center"><a href="https://ujjwalgupta.tech">
+    <td align="center"><a href="https://ujjwalgupta.netlify.app/">
     <img src="https://github.com/22Ujjwal/22Ujjwal.github.io/blob/main/images/laptop_sticker.png" alt="My Portfolio" height="50" width="50"  /> </a></td> </tr> </div> 
 
   
