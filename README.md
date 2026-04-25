@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Building+AI+that+actually+works.;Agents+%7C+More-Agents+%7C+MoreMore-Agents;Let%27s+build+something+cool." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Thinking+in+Systems;Agents+%7C+More-Agents+%7C+More-More-Agents;Let%27s+build+something+cool." alt="Typing SVG" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
