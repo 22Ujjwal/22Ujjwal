@@ -65,10 +65,10 @@
 <div align="center">
   <table border="0"><tr>
     <td align="center"><a href="https://linkedin.com/in/ujjwalgupta-" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/144px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
   </a></td>
     <td align="center"><a href="mailto:ujjwal.gupta2000@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email " height="30" width="40"  />
+    <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Email " height="30" width="40"  />
   </a></td>
     <td align="center"><a href="https://ujjwalgupta.netlify.app/">
     <img src="https://github.com/22Ujjwal/22Ujjwal.github.io/blob/main/images/laptop_sticker.png" alt="My Portfolio" height="50" width="50"  /> </a></td> </tr> </div> 
