@@ -8,7 +8,7 @@
 <h3 align="center">☁️ Cloud Technologies</h3>
 <div align="center">
   <table border="0"><tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/></td>
+    <td align="center"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20170912170050" width="60" height="50" alt="AWS"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50" alt="GCP"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" height="50" alt="Azure"/></td>
   </tr></table>
