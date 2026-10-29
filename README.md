@@ -54,7 +54,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind"/></td>
-    <td align="center"><img src="https://monkedo-static.s3.eu-central-1.amazonaws.com/component-icons/supabase.png" width="50" height="50" alt="Supabase"/></td>
+    <td align="center"><img src="https://supabase.com/brand-assets/supabase-icon-green-transparent.png" width="50" height="50" alt="Supabase"/></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="50" height="50" alt="MongoDB"/></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" width="50" height="50" alt="Docker"/></td>
